@@ -1,0 +1,4 @@
+Test,Test Staatistic,P-Value,Conclusion
+One-Sample T-Test,4.789294302012744,1.6977434726361298e-06,Reject Null Hypothesis
+Independent T-Test,0.796108463300414,0.42600271750321395,Fail to Reject Null Hypothesis
+Chi-Square Test,416.4449200209841,6.065862844185004e-90,Reject Null Hypothesis
